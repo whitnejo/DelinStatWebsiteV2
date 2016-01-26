@@ -1,0 +1,14 @@
+html color codes for website
+Purple: #64266F
+Dark Purple: #323A83
+Light Blue: #1295E5
+Mint Green: #77BB68
+Teal: #33ABA2
+Pale Blue: #C1D9CB
+
+Light Purple: 
+
+sass-lang.com
+jeckel
+
+SOLID background color: #384452
